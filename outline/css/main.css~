@@ -1,0 +1,8 @@
+body{
+	background-color: blue;
+	background-image: url(../images/devfest.jpg);
+}
+
+.panel{
+	margin-top: 200px;
+}
